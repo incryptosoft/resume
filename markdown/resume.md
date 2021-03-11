@@ -18,13 +18,10 @@ Education
 2007
 :   **BSc, Computer Science**; University of Wisconsin (Green Bay, WI)
 
-2001
-:   **AS, Computer Science**; Fox Valley Technical College (Appleton, WI)
-
 Experience
 ----------
 
-**Freelance Software Development (2015-Current)**
+**Senior Software Engineer, Independent Consulting (2015-Current)**
 
 I have been working with a small network of Food Pantries in Wisconsin to implement an electronic
 management system to track their clients, donations, inventory, and volunteers.  I am on the board of directors for multiple organizations and have spearheaded this project to simplify and standardize management of day to day operations.
@@ -44,7 +41,7 @@ management system to track their clients, donations, inventory, and volunteers. 
 * Microsoft Active Directory & Azure Active Directory setup & administration for multiple domains across the organizations.
 
 
-**Senior Java Developer at Starmount - Austin, TX (2014-2015)**
+**Senior Software Engineer at Starmount - Austin, TX (2014-2015)**
 
 * Building customized solutions for customers that purchased the Starmount mobile POS system using Spring, Hibernate, and RESTful services.
 
@@ -57,7 +54,7 @@ management system to track their clients, donations, inventory, and volunteers. 
 * Database synchronization from MySQL, PostgreSQL, and DB2 databases using SymmetricDS, with database schema generated with Spring/Hibernate annotations.
 
 
-**Senior IT Developer at Home Depot - Austin, TX (2007-2014)**
+**Senior Software Engineer at Home Depot - Austin, TX (2007-2014)**
 
 * Developing Java code for all Point of Sale systems including cash registers and server operations.  Focused on server-side programming and web applications using J2EE, RESTful & SOAP services, with some exposure to Hibernate, Spring, and Tomcat configuration.
 
@@ -74,7 +71,7 @@ management system to track their clients, donations, inventory, and volunteers. 
 * Mentored peers and new programmers on the team to help them reach their goals as well as increasing their knowledge of the store systems
 
 
-**Programmer/Analyst at SCA North America - Philadelphia, PA (2002-2007)**
+**Software Engineer/Analyst at SCA North America - Philadelphia, PA (2002-2007)**
 
 * ABAP Programming using MM, SD, PP, and FI modules.
 
@@ -85,7 +82,7 @@ management system to track their clients, donations, inventory, and volunteers. 
 * Leading knowledge sharing sessions between programming staff and the business to provide training, and how to information to end users.
 
 
-**Programmer/Analyst at Paper Converting Machine Company - Green Bay, WI (1999-2002)**
+**Software Engineer/Analyst at Paper Converting Machine Company - Green Bay, WI (1999-2002)**
 
 * ABAP Programming, involving report writing, and heavy experience with data conversion from a mainframe environment.
 
@@ -118,7 +115,7 @@ Programming Languages
 
 :   **IDEs:** IntelliJ (Preferred), Eclipse
 
-:   Working knowledge of **VB .NET**, **C# .NET**, **C**, **Fortran**, **Cobol**, **Javascript**, **HTML**, **PHP**, **CSS**
+:   Working knowledge of **C# .NET**, **C**, **Javascript**, **HTML**, **CSS**
 
 
 Other Information
